@@ -8,6 +8,7 @@ public class bullet_destroy : MonoBehaviour
     void Start()
     {
         StartCoroutine(Wait());
+        //test ca merge gen
     }
 
     IEnumerator Wait()
