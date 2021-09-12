@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - coll
+  - platforma
+  - enemy
+  - a
+  - menu
+  - T1
+  - pr
+  - nothing
+  - bloc
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - non-default
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2621808629
+    locked: 0
+  - name: BackElement
+    uniqueID: 1419381171
+    locked: 0
+  - name: particles
+    uniqueID: 2778249301
+    locked: 0
+  - name: non default2
+    uniqueID: 1913293777
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: AcPlayer
+    uniqueID: 1753986873
+    locked: 0
