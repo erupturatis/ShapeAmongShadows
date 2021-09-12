@@ -17,15 +17,12 @@ public class Parallax : MonoBehaviour
         Camera = GameObject.FindGameObjectWithTag("MainCamera");
         InitPos = gameObject.transform.position;
         CameraInit = Camera.transform.position;
-        ParralexGrade = 0;
+
     }
 
     public void SetParralax(float a)
     {
-        print("setuit");
         ParralexGrade = a;
-        ParralexGrade = 1;
-        print(ParralexGrade);
     }
 
     // Update is called once per frame
